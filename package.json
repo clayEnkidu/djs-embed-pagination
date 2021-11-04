@@ -1,0 +1,29 @@
+{
+  "name": "djs-embed-pagination",
+  "version": "1.0.0",
+  "description": "A node package/utility useful for paginating embeds/buttons. Note: Only supports discord.js v13 , it'll not work for version older than v13!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damon00-dev/djs-embed-pagination.git"
+  },
+  "keywords": [
+    "discordjs",
+    "Pagination",
+    "buttons",
+    "discord",
+    "embeds"
+  ],
+  "author": "DAMOÑ#8497",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damon00-dev/djs-embed-pagination/issues"
+  },
+  "homepage": "https://github.com/damon00-dev/djs-embed-pagination#readme",
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  }
+}
